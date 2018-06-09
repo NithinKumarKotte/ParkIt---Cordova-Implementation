@@ -1,0 +1,12 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "ParkIt",
+  "short_name": "ParkIt",
+  "version": "com.bright.moments.parkit",
+  "description": "A simple application to find your car.",
+  "author": "Mobile developer",
+  "icons": [],
+  "orientation": "portrait",
+  "start_url": "index.html"
+}
